@@ -19,6 +19,7 @@ html,body{
     background-size: cover;
 }
  #page h1{
+    font-family: text;
     position: absolute;
 top: 50%;
 left: 50%;
